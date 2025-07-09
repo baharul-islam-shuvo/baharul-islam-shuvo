@@ -51,6 +51,6 @@ I thrive on analyzing data, identifying trends, and creating models that help or
 ## 📫 Connect With Me
 
 - 📧 Email: baharulislam952@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-baharul-islam-shuvo-780484369/)  
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/md-baharul-islam-shuvo-780484369/)  
 
 ---
