@@ -26,7 +26,7 @@ I thrive on analyzing data, identifying trends, and creating models that help or
   - Conducted ratio analysis (liquidity, profitability, leverage, efficiency).
   - Performed DCF valuation and scenario analysis.
   - Extracted data from Screener.in, Yahoo Finance, Nifty 50 and Investing (Source).
-- 🔗 [View Dashboard](#) | [GitHub Repository](#)
+- 🔗 [View Dashboard](#) | [GitHub Repository](https://github.com/baharul-islam-shuvo/Asian-Paints-Ltd-financial-modeling)
 
 ---
 
