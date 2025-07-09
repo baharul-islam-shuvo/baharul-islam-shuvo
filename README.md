@@ -14,6 +14,13 @@ I thrive on analyzing data, identifying trends, and creating models that help or
 
 ---
 
+### 💼 Financial Modeling for FMCG Company
+- 📊 **Tools:** Excel, Power BI
+- 📈 **Overview:** Built a 3-statement financial model (Income Statement, Balance Sheet, Cash Flow) using historical data and assumptions. Visualized KPIs like revenue growth, margin trends, and forecasting outputs in Power BI.
+- 🔗 [View Dashboard](#) | [GitHub Repository](#)
+
+---
+
 ## 🔧 Skills
 
 ### 📊 Data & Business Tools
