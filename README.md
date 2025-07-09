@@ -14,10 +14,30 @@ I thrive on analyzing data, identifying trends, and creating models that help or
 
 ---
 
-### 💼 Financial Modeling for FMCG Company
-- 📊 **Tools:** Excel, Power BI
-- 📈 **Overview:** Built a 3-statement financial model (Income Statement, Balance Sheet, Cash Flow) using historical data and assumptions. Visualized KPIs like revenue growth, margin trends, and forecasting outputs in Power BI.
+## 📁 Projects
+
+### 💼 Financial Modeling for Asian Paints Ltd.
+- 🔧 **Tools:** Excel, Screener.in, Yahoo Finance, Investing, Nifty 50
+- 🗓️ **Duration:** March 2016 – March 2025
+- 🎯 **Skills Gained:** Financial analysis, Excel modeling, valuation techniques, dashboarding, scenario analysis.
+- 📈 **Overview:**
+  - Built a comprehensive 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement).
+  - Forecasted revenue and costs based on historical data and industry assumptions.
+  - Conducted ratio analysis (liquidity, profitability, leverage, efficiency).
+  - Performed DCF valuation and scenario analysis.
+  - Extracted data from Screener.in, Yahoo Finance, Nifty 50 and Investing (Source).
 - 🔗 [View Dashboard](#) | [GitHub Repository](#)
+
+---
+
+### 📊 Power BI Dashboard – Global Data Professionals Survey.(Self-led Project)
+- 🔧 **Tools:** Power BI (Basic Level), Excel
+- 🗓️ **Duration:** Date (10 June - 22 June 2022)
+- 📈 **Overview:**
+  - Collected and analyzed global survey data of data professionals to identify trends in tools, salaries, and roles.
+  - Built an interactive dashboard in Power BI to visualize geographical distribution, salary ranges, tool usage, and job roles.
+  - Enabled cross-filtering by country, experience level, and profession type for deeper insights.
+- 🔗 [View Dashboard](https://app.powerbi.com/groups/me/reports/d07b1416-177a-43a3-9436-3cb1131cbd1a/de64ae87d4d02edbde10?experience=power-bi) | [GitHub Repository](https://github.com/baharul-islam-shuvo/Global-Data-Professionals-Survey)
 
 ---
 
